@@ -1,0 +1,19 @@
+﻿  Calculator_16_Sergeev_R_D.cpp
+C:\Users\User\source\repos\Calculator_16_Sergeev_R_D\Calculator_16_Sergeev_R_D.cpp(26,2): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\User\source\repos\Calculator_16_Sergeev_R_D\Calculator_16_Sergeev_R_D.cpp(27,3): error C2065: mov: необъявленный идентификатор
+C:\Users\User\source\repos\Calculator_16_Sergeev_R_D\Calculator_16_Sergeev_R_D.cpp(27,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\User\source\repos\Calculator_16_Sergeev_R_D\Calculator_16_Sergeev_R_D.cpp(27,7): error C2065: eax: необъявленный идентификатор
+C:\Users\User\source\repos\Calculator_16_Sergeev_R_D\Calculator_16_Sergeev_R_D.cpp(28,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Users\User\source\repos\Calculator_16_Sergeev_R_D\Calculator_16_Sergeev_R_D.cpp(28,3): error C2065: mov: необъявленный идентификатор
+C:\Users\User\source\repos\Calculator_16_Sergeev_R_D\Calculator_16_Sergeev_R_D.cpp(28,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ebx"
+C:\Users\User\source\repos\Calculator_16_Sergeev_R_D\Calculator_16_Sergeev_R_D.cpp(28,7): error C2065: ebx: необъявленный идентификатор
+C:\Users\User\source\repos\Calculator_16_Sergeev_R_D\Calculator_16_Sergeev_R_D.cpp(29,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "add"
+C:\Users\User\source\repos\Calculator_16_Sergeev_R_D\Calculator_16_Sergeev_R_D.cpp(29,3): error C2065: add: необъявленный идентификатор
+C:\Users\User\source\repos\Calculator_16_Sergeev_R_D\Calculator_16_Sergeev_R_D.cpp(29,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\User\source\repos\Calculator_16_Sergeev_R_D\Calculator_16_Sergeev_R_D.cpp(29,7): error C2065: eax: необъявленный идентификатор
+C:\Users\User\source\repos\Calculator_16_Sergeev_R_D\Calculator_16_Sergeev_R_D.cpp(29,11): error C2065: ebx: необъявленный идентификатор
+C:\Users\User\source\repos\Calculator_16_Sergeev_R_D\Calculator_16_Sergeev_R_D.cpp(30,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Users\User\source\repos\Calculator_16_Sergeev_R_D\Calculator_16_Sergeev_R_D.cpp(30,3): error C2065: mov: необъявленный идентификатор
+C:\Users\User\source\repos\Calculator_16_Sergeev_R_D\Calculator_16_Sergeev_R_D.cpp(30,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "result_asm"
+C:\Users\User\source\repos\Calculator_16_Sergeev_R_D\Calculator_16_Sergeev_R_D.cpp(30,18): error C2065: eax: необъявленный идентификатор
+C:\Users\User\source\repos\Calculator_16_Sergeev_R_D\Calculator_16_Sergeev_R_D.cpp(32,2): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
